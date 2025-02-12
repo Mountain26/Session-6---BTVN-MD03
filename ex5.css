@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif
+}
+.table1{
+    width: 100%;
+}
+.table2{
+    width: 100%;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+.background{
+    background-color: #4caf50;
+}
+.dong1{
+    color: white;
+    line-height: 100px;
+}
+.o1{
+    padding-left: 15px;
+    font-size:x-large;
+    font-weight: 600;
+}
+.o1_1{
+    padding-right: 15px;
+    text-align: right;
+    font-size: large;
+}
+.Welcome{
+    padding-top: 20px;
+    font-weight: 600;
+    font-size: xx-large;
+}
+.oletter{
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.btn{
+    line-height: 250%;
+    width: 8%;
+    background-color:#4caf50;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid #4caf50;
+}
+.table3{
+    width: 100%;
+    text-align: center;
+    line-height: 500%;
+}
+.submit{
+    background-color: #dddddd;
+    border: 1px solid #dddddd;
+    color: black;
+    text-align: center;
+    font-size: large;
+    padding-left: 20px;
+    line-height: 300%;
+    width: 30%;
+    border-radius: 7px;
+}
+.dong4{
+    text-align: center;
+    color: white;
+}
+.table4{
+    width: 100%;    
+    text-align: center;
+    line-height: 500%;
+    background-color: #333333;
+}

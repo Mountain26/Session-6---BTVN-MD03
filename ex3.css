@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif
+}
+.background{
+    background-color: #282c34;
+}
+.background2{
+    background-color: #f0f0f0;
+}
+.background3{
+    background-color: white;
+}
+.table1{
+    width: 100%;
+}
+.table2{
+    padding-top: 25px;
+    width: 100%;
+}
+
+.dong1{
+    color: white;
+    line-height: 100px;
+}
+.o1{
+    padding-left: 15px;
+    font-size:x-large;
+    font-weight: 600;
+}
+.o1_1{
+    padding-right: 15px;
+    text-align: right;
+    font-size: large;
+}
+.oavt{
+    padding-left: 40px;
+    width: 180px;
+}
+.dong2{
+    padding-top: 5%;
+    line-height: 500%;
+    
+}
+.chuphuduoi{
+    font-weight: 600;
+}
+.avt{
+    border-radius: 50%;
+}
+.dong3{
+    background-color: white;
+    width: 100%;
+}
+.table3{
+    width: 100%;
+}
+.project{
+    font-size: large;
+    font-weight: 700;
+}
+.odong3{
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.submit{
+    background-color: #282c34;
+    color: white;
+    text-align: center;
+    font-size: large;
+    padding-left: 20px;
+    line-height: 300%;
+    width: 23%;
+    border-radius: 7px;
+}
+.table4{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center; 
+    width: 100%;
+}
+.footer{
+    text-align: center;
+}
+.dong4{
+    text-align: center;
+}

@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    padding-top: 15;
+    width: 100%;
+    line-height: 40px;
+    text-align: center;
+    background-color: #007bff;
+}
+.chutieude{
+    padding-top: 15px;
+    color: white;
+    font-size:xx-large;
+    font-weight: 600;
+}
+.chuphuduoi{
+    padding-top: 15px;
+    color: white;
+    font-size:large;
+}
+.avt{
+    border-radius: 50%;
+    border:  solid blue;
+}
+.table{
+    width: 100%;
+    padding-left: 30%;
+    padding-top: 15px;
+}
+.tableavt{
+    width: 45%;
+}
+.chanweb{
+    width: 100%;
+    text-align: center;
+    line-height: 400%;
+}
+.footer{
+    background-color: #f1f1f1;
+    line-height: 400%;
+}
